@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// コメント―――
 int main()
 {
 	cout << "Hello World"<<endl;
